@@ -1,10 +1,3 @@
-//
-//  PlayarDetailView.swift
-//  quiz
-//
-//  Created by 若林大樹 on 2023/02/02.
-//
-
 import SwiftUI
 
 struct PlayarDetailView: View {

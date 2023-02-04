@@ -1,10 +1,3 @@
-//
-//  Photodata.swift
-//  quiz
-//
-//  Created by 若林大樹 on 2023/01/30.
-//
-
 import Foundation
 
 struct Photodata :Identifiable{

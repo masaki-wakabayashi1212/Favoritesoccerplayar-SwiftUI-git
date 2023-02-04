@@ -1,10 +1,3 @@
-//
-//  Rowbiew.swift
-//  quiz
-//
-//  Created by 若林大樹 on 2023/01/30.
-//
-
 import SwiftUI
 
 struct Rowbiew: View {
